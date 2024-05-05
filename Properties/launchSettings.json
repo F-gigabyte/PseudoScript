@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PseudoScript": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ftlg9\\source\\repos\\PseudoScript\\test.txt"
+    }
+  }
+}

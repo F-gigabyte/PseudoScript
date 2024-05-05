@@ -1,0 +1,19 @@
+class Example:
+	func const : a, b
+		this.a <- a
+		this.b <- b
+	end
+
+	func print
+		print ("A is " a " and B is " b)
+	end
+end
+
+func main
+	option <- input "Enter option"
+	if option equals "Yes" then
+		print "You entered Yes"
+	else then
+		print "You didn't enter Yes"
+	end
+end

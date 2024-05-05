@@ -1,0 +1,16 @@
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.exe
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.deps.json
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.runtimeconfig.json
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.runtimeconfig.dev.json
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.dll
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\ref\PseudoScript.dll
+C:\Users\ftlg9\source\repos\PseudoScript\bin\Debug\net5.0\PseudoScript.pdb
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.csproj.AssemblyReference.cache
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.AssemblyInfoInputs.cache
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.AssemblyInfo.cs
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.csproj.CoreCompileInputs.cache
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.dll
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\ref\PseudoScript.dll
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.pdb
+C:\Users\ftlg9\source\repos\PseudoScript\obj\Debug\net5.0\PseudoScript.genruntimeconfig.cache
